@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeslimene&label=Profile%20views&color=0e75b6&style=flat" alt="seifeslimene" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifeslimene" alt="seifeslimene" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifeslimene" alt="seifeslimene" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://www.seifeddineslimene.com](https://www.seifeddineslimene.com)
 
