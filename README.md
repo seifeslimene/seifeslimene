@@ -46,6 +46,6 @@
 <br />
 <br />
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeslimene&show_icons=true&locale=en&layout=compact" alt="seifeslimene" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeslimene&show_icons=true&locale=en&layout=compact" alt="seifeslimene" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeslimene&show_icons=true&locale=en" alt="seifeslimene" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeslimene&" alt="seifeslimene" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeslimene&" alt="seifeslimene" /></p> -->
