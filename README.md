@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.seifeddineslimene.com](https://www.seifeddineslimene.com)
 
-- 📝 I regularly write articles on [https://www.seifeddineslimene.com/blogs](https://www.seifeddineslimene.com/blogs)
+- 📝 I regularly write articles on [https://www.seifeddineslimene.com/articles](https://www.seifeddineslimene.com/articles)
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Nest.js**
 
 - 📫 How to reach me **s.slimene19@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/g44ip96pqc](https://flowcv.com/resume/g44ip96pqc)
+- 📄 Know about my experiences [https://www.seifeddineslimene.com/resume.pdf](https://www.seifeddineslimene.com/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
